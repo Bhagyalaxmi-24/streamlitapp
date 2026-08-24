@@ -1,7 +1,2 @@
 streamlit
-sklearn
-pandas 
-numpy 
-joblib
 scikit-learn
-threadpoolctl
